@@ -1,0 +1,35 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="63341" builtInServerAvailableExternally="true" allowUnsignedRequests="true" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="11.10.0" last-modified="1550583720000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/11.10.0/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="196-233-175-255,,,164-233-170-255,,,142-233-188-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6591398" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="it" />
+    <property name="KEYMAP" value="OnlineSearch&#10;JavaScript Support&#10;lint" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="settings repos&#10;JavaScript Support&#10;deb" />
+    <property name="TrendingPluginsSearchHistory" value="iterm&#10;iter&#10;sortBy:downloads&#10;sortBy:updated&#10;OnlineSearch" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.docker.view.DockerViewContribution.0" value="300" />
+    <property name="file.gist.reindex.count" value="130651" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="CARET_COLOR" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="mySvnCommandLine" value="/usr/bin/svn" />
+  </component>
+</application>
