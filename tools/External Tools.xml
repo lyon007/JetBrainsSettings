@@ -1,9 +1,0 @@
-<toolSet name="External Tools">
-  <tool name="run-ios" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
-    <exec>
-      <option name="COMMAND" value="/usr/local/bin/react-native" />
-      <option name="PARAMETERS" value="run-ios --simulator=&quot;iPhone 6s&quot;" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
-</toolSet>

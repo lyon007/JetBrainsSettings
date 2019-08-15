@@ -1,6 +1,0 @@
-<application>
-  <component name="px2remForWebStorm">
-    <option name="remBaseValue" value="100.0" />
-    <option name="showCalculationProcess" value="false" />
-  </component>
-</application>
